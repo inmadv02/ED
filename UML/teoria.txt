@@ -1,0 +1,21 @@
+Login
+Registro
+Listar restaurantes (extend: como lista, como mapa)
+Buscar restaurantes (include: listar rest)
+Ver detalles restaurante
+Ver detalle receta
+Listar recetas extend Filtrar recetas (num distintos)
+Añadir
+Borrar
+Modificar
+Comentar restaurante
+Restaurante favorito
+Receta favorita
+Ver perfil usuarios
+Ver restaurantes fav
+Ver recetas fav
+
+herencia de monigotes
+
+las flechas del primer monigote las hereda el otro, pero no se vuelven
+a pintar

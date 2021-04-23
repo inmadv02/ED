@@ -1,0 +1,12 @@
+empresa: 
+	introducir inmuebles nuevos
+	darlos de baja
+	modificarlos
+	consultarlos
+otra empresa: 
+	introducir nuevos pisos o locales, darlos de baja, modificarlos y hacer consultas sobre ellos
+alquilar --> casero 
+casero -->  dados de alta, si son nuevos inquilinos, 
+	con sus datos correspondientes (nombre, DNI, edad, sexo, …), 
+		poder modificarlos, darlos de baja, consultarlos,
+inquilino --> identificación, modificar o consultar sus datos, pero no darse de baja o de alta
